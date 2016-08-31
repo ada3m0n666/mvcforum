@@ -1,0 +1,401 @@
+﻿Layout.Nav.Register,S’inscrire
+Layout.Nav.Logon,Se connecter
+Layout.CreateButton,Nouvelle question
+Layout.Nav.Activity,Activité
+Layout.Nav.Admin,Admin
+Topic.Votes,Votes
+Topic.Comments,Réponses
+Layout.PoweredBy,Propulsé par
+Layout.Nav.Leaderboard,Classement des meilleurs forumeurs
+Layout.Nav.Home,Accueil
+Topic.InCategory,dans
+Post.Posts,Posts
+Topic.StartedBy,A commencé {0} par {1}
+Post.VotedDown,Vous n'aimez pas
+Post.VoteDown,Je n'aime pas
+Post.Points,Points
+Topic.LatestBy,Répondu en dernier par
+Topic.Views,Vues
+Post.IsSolution,Est la solution
+Post.PostedThis,a posté ceci
+Post.VotedUp,Vous aimez
+Post.VoteUp,J'aime
+Post.ReplyingTo,Répondre à :
+Post.Move,Déplacer
+Post.Reply,Réponse
+Post.Delete,Supprimer
+Post.Edit,Modifier
+Post.Report,Signaler
+Post.LastEdited,Dernière modification
+Topic.UnSubscribe,Ne plus suivre
+Post.PleaseWait,Veuillez patienter...
+LogOn.LogOn,Se connecter
+Topic.DiscussionTaggedWith,Discussions avec l'étiquette :
+Topic.TitleFallBack,Sujet de discussion
+Topic.Subscribe,Suivre
+LogOn.LogOff,Se déconnecter
+Topic.IsLocked,Question verrouillée
+Topic.TagThisTopic,Etiqueter cette question
+Topic.Choose,Choisissez une question existante
+Stats.LatestMembers,Derniers inscrits :
+Tags.PopularTags,Etiquettes populaires
+Topic.CreateDiscussion,Poser une question
+Stats.FooterMainStatText,Nos {0} membres ont posté {1} fois dans {2} discussions
+PM.BackToInbox,Retour à la boîte de réception
+PM.SentPrivateMessages,Messages privés envoyés
+PM.Title,Message :
+PM.Sent,Envoyés :
+PM.Reply,Répondre
+PM.From,De :
+PM.Subject,Objet
+PM.To,À
+PM.Date,Date
+PM.Delete,Supprimer
+PM.Read,Lire
+PM.ReceivedPrivateMessages,Messages privés reçus
+PM.NoMessages,Actuellement, vous n’avez aucun message privé
+PM.Create,Créer
+PM.CreatePrivateMessage,Créer Message privé
+Report.ReportPostBy,Signaler le post de :
+Buttons.Send,Envoyer
+PM.Send,Envoyer
+PM.OriginalMessage,Message d’origine
+Buttons.Edit,Modifier
+SideBox.MyTools,Mes outils
+Points.ThisWeeksHighEarners,Ceux qui ont gagné le plus de points cette semaine
+PM.PrivateMessages,Messages privés
+Members.SearchMembers,Rechercher membres
+Buttons.Search,Rechercher
+Members.Users,Utilisateurs
+Members.Points,Points
+Members.DateJoined,Date d'inscription
+Report.Report,Signaler
+Members.Register,S’inscrire
+Members.ProfileTitle,Profil
+Members.LogOnMessage,Veuillez entrer votre nom d’utilisateur et mot de passe. Ou {0} si vous n’avez pas de compte
+Buttons.LogOn,Se connecter
+Members.AlreadyRegistered,Vous êtes déjà inscrit ? Pourquoi le refaire alors :) ?
+Members.Profile.Points,Points :
+Members.Profile.Posts,Posts :
+Members.Profile.Joined,Inscrit le :
+Members.Profile.Location,Zone géographique :
+Buttons.Report,Signaler
+Members.Profile.Age,Âge :
+Members.Profile.Website,Site Web
+Members.Profile.Twitter,Twitter
+Members.Profile.Facebook,Facebook :
+Members.Profile.DiscussionActivity,Activité de discussion
+Ajax.PleaseWait,Veuillez patienter...
+Members.EditProfile,Modifier le profil
+Members.Profile.Badges,Badges
+Buttons.Save,Enregistrer
+Buttons.Continue,Continuer
+Members.EditMember,Modifier des membres
+Leaderboard.ThisWeeksStars,Les stars de la semaine
+Leaderboard.ThisYearsStars,Les rocks stars de l'année
+Leaderboard.LeaderboardTitle,Classement global
+Home.Rss,Flux RSS
+Home.LatestDiscussions,Dernières discussions
+Activity.ActivityTitle,Activité
+Notification.Subscribe,Suivre
+Category.NoDiscussions,Actuellement aucune discussion dans cette catégorie
+Notification.UnSubscribe,Ne plus suivre
+PM.RecipientUsername,Nom d’utilisateur du destinataire
+Category.CategoriesSideHeading,Catégories
+PM.MessageSubject,Objet
+Post.Label.TopicName,Nom de la question
+Post.Label.LockTopic,Verrouiller question
+Post.Label.IsStickyTopic,Est-ce un sujet persistant
+Members.Label.Username,Nom d’utilisateur
+Post.label.TopicCategory,Catégorie de question
+Members.Label.EmailAddress,Email (utilisé par Gravatar pour afficher votre image d’Avatar)
+Members.Label.ConfirmPassword,Confirmer mot de passe
+Members.Label.Password,Mot de passe
+Members.Label.UserIsApproved,L’utilisateur est approuvé
+Members.Label.Comment,Commentaire
+Members.Label.Roles,Rôles
+Members.Label.Signature,Signature
+Members.Label.Age,Âge
+Members.Label.Location,Zone géographique
+Members.Label.Website,Site Web
+Members.Label.Twitter,Twitter Url
+Members.Label.Facebook,Page Facebook
+Members.Label.RememberMe,Se souvenir de moi ?
+Members.Label.DateJoined,Date d'inscription
+Members.Label.Users,Utilisateurs
+Errors.NoAccess,Pas d’accès
+Errors.GenericMessage,Désolé, une erreur est survenue
+Errors.NoPermission,Vous n’êtes pas autorisé à effectuer cette action
+Topic.Notification.Subject,Nouvelle question sur
+Topic.Notification.NewTopics,Un nouveau sujet ou étiquette a été créé dans la catégorie {0}
+PM.SentItemsOverCapcity,Vos éléments envoyés ont dépassé la capacité maximum autorisée - supprimer des messages pour pouvoir en envoyer à nouveau
+PM.SendingToQuickly,Vous essayez d’envoyer des messages trop rapidement
+PM.ReceivedItemsOverCapcity,{0} a dépassé leur capacité maximum de boîte de réception - impossible d’envoyer le message
+PM.UnableFindMember,Impossible de trouver ce membre
+PM.MessageSent,Message envoyé
+PM.TalkToSelf,Il est un peu bizarre de vous parler à vous-même. n’est-il pas ?
+Topic.Deleted,Question supprimée
+Post.Updated,Post mis à jour
+Post.Deleted,Post supprimé
+Post.Notification.NewPosts,Un nouveau post a été ajouté à la question {0}
+Post.Notification.Subject,Nouveau post sur
+Report.ReportSent,Signalement envoyé
+Members.NowRegistered,Vous êtes maintenant inscrit
+Members.NowRegisteredNeedApproval,Vous êtes maintenant inscrit. Mais l’admin du forum doit approuver votre compte
+Members.NowLoggedIn,Vous êtes maintenant connecté
+Members.Errors.PasswordAttemptsExceeded,Le nombre maximal de tentatives de mot de passe a été atteint.
+Members.Errors.PasswordIncorrect,L’utilisateur ou le mot de passe fourni est incorrect.
+Members.Errors.UserLockedOut,L’utilisateur est verrouillé.
+Members.Errors.LogonGeneric,Impossible de se connecter.
+Members.Errors.UserNotApproved,L’utilisateur n’a pas été approuvé.
+Members.NowLoggedOut,Vous êtes maintenant déconnecté
+Member.ProfileUpdated,Profil mis à jour
+Language.Changed,Langue modifiée
+Rss.LatestActivity.Description,Discussions récentes
+Rss.LatestActivity.Title,Dernières discussions sur le forum
+Rss.Category.Title,{0} discussions
+Errors.NothingToDisplay,Rien à afficher
+Rss.Category.Description,Dernières discussions qui passe dans la catégorie {0}
+Report.Reporter,Signaleur
+Report.MemberReported,Membres signalés
+Report.MemberReport,Signaler membre
+Report.Reason,Raison
+Report.Admin,Admin
+Report.PostReport,Signaler post
+Report.PostReported,Post signalé dans
+Badges.UnableToAward,Impossible d’attribuer des badges car la collection est nulle pour l'utilisateur {0}
+Badge.UnknownBadge,Type de badge inconnu {0}
+Members.Errors.DuplicateUserName,Nom d’utilisateur existe déjà. Veuillez entrer un nom d’utilisateur différent.
+Badge.BadegEnumNoClass,Le badge enum type {0} n’a aucune classe correspondante spécifiée.
+Members.Errors.DuplicateEmail,Un nom d’utilisateur pour cette adresse e-mail existe déjà. Veuillez entrer une adresse de messagerie différente.
+Members.Errors.InvalidPassword,Le mot de passe fourni n’est pas valide. Veuillez entrer un mot de passe valide.
+Members.Errors.InvalidEmail,L’adresse e-mail fournie n’est pas valide. S’il vous plaît, vérifiez l'adresse et réessayez.
+Members.Errors.InvalidAnswer,La réponse de récupération de mot de passe fournie n’est pas valide. S’il vous plaît, vérifiez la valeur et réessayez.
+Members.Errors.InvalidQuestion,La question de récupération de mot de passe fournie n’est pas valide. S’il vous plaît, vérifiez la valeur et réessayez.
+Members.Errors.InvalidUserName,Le nom d’utilisateur fourni n’est pas valide. S’il vous plaît, vérifiez la valeur et réessayez.
+Members.Errors.ProviderError,Le fournisseur d’authentification a renvoyé une erreur. S’il vous plaît vérifier votre entrée et réessayez. Si le problème persiste, veuillez contacter votre administrateur système.
+Members.Errors.UserRejected,La demande de création d’utilisateur a été annulée. S’il vous plaît vérifier votre entrée et réessayez. Si le problème persiste, veuillez contacter votre administrateur système.
+Members.Errors.Unknown,Une erreur inconnue s’est produite. S’il vous plaît vérifiez votre entrée et réessayez. Si le problème persiste, veuillez contacter votre administrateur système.
+Members.NewMemberRegistered,Nouveau membre inscrit sur {0} ({1})
+Members.Admin,Admin
+Members.NewMemberSubject,Nouveau membre enregistré
+Members.ForgotPassword.Email,Vous avez demandé que votre mot de passe soit réinitialisé sur {0}. Votre nouveau mot de passe est ci-dessous
+Members.CantUnlock,L’utilisateur n’existe pas - ne peut pas être déverrouillé.
+Members.ForgotPassword.Subject,Réinitialisation de mot de passe
+Members.ForgotPassword.SuccessMessage,Un nouveau mot de passe vous a été envoyé
+Members.ForgotPassword.ErrorMessage,Erreur pendant la réinitialisation de votre mot de passe
+Members.ChangePassword.Success,Mot de passe changé
+Members.ChangePassword.Error,Le mot de passe actuel est incorrecte ou le nouveau mot de passe n’est pas valide.
+Buttons.ChangePassword,Changer mot de passe
+Members.ChangePassword.Title,Changer mot de passe
+Members.ChangePassword.Text,Les mots de passe doivent être d’au moins {0} caractères.
+Members.ChangePassword.Link,Cliquez ici si vous voulez {0}
+Members.ForgotPassword.Title,Mot de passe oublié
+Buttons.ResetPassword,Réinitialiser mot de passe
+Members.ForgotPassword.Link,Mot de passe oublié ?
+Members.Label.CurrentPassword,Mot de passe actuel
+Members.Label.NewPassword,Nouveau mot de passe
+Members.Label.ConfirmNewPassword,Confirmez le nouveau mot de passe
+Members.Label.EmailAddressBlank,Entrez votre adresse e-mail
+Activity.Badge,
+Activity.UserJoined,est un nouveau membre dans le forum
+Activity.UserAwardedBadge,a obtenu le badge 
+Activity.ProfileUpdated,a un profil à jour
+Topic.Label.SubscribeToTopic,Recevoir des notifications lorsque des réponses sont apportées ?
+Badges.PageTitle,Badges
+Layout.Nav.Badges,Badges
+Topic.Label.TopicTitle,Titre
+Poll.Button.Create,Ajouter un sondage à cette question
+Poll.Placeholder.TypeAnswerHere,Saisissez une réponse au sondage ici
+Topic.OptionsHeading,Options
+Poll.Button.Vote,Soumettre le vote
+Poll.Button.Remove,Retirer le sondage de la question
+Error.WrongAnswerRegistration,Il y a eu une erreur avec votre réponse. S’il vous plaît essayez à nouveau
+Members.LoginOrText,Ou
+Facebook.Error.EnabledButNotAddedKeys,Vous avez activé l'authentification Facebook mais vous n'avez pas encore ajouté votre AppId ou la clé secrète au fichier forum.config
+Microsoft.Error.EnabledButNotAddedKeys,Vous avez activé l'authentification Microsoft, mais vous n'avez pas encore ajouté votre AppId ou la clé secrète au fichier forum.config
+Members.Profile.IsSocialAccount,Compte réseau social
+Date.JustNow,à l'instant
+Date.OneMinuteAgo,Il y a 1 minute
+Date.MinutesAgo,Il y a {0} minutes
+Date.OneHourAgo,Il y a 1 heure
+Date.HoursAgo,Il y a {0} heures
+Date.Yesterday,hier
+Date.DaysAgo,Il y a {0} jours
+Date.WeeksAgo,Il y a {0} semaines 
+Side.Search,Rechercher
+Search.NoResults,Désolé, aucun résultat trouvé
+Topic.CommentsDetails,Commentaires
+Members.DeleteAllPosts,Supprimer tous les messages
+Buttons.CreatePost,Ajouter Post
+Topic.Label.Category,Choisissez la catégorie
+Editor.NeedHelp,Besoin d’aide pour la mise en forme ?
+Members.BanUser,Bannir utilisateur
+Members.UnBanUser,Débannir l'utilisateur
+Errors.NoPermissionPolls,Question créée. Mais vous n’êtes pas autorisé à créer des sondages
+Topic.ShowMorePostsLoading,Chargement des posts...
+Topic.ShowMorePosts,Afficher plus de posts
+Topic.AlreadyAnswered,Questions auxquelles vous avez déjà répondu
+Topic.Comment,Réponse
+Stats.FooterActiveUsersText,Membres actuellement en ligne :
+PostFilter.OrderBy,Trier par :
+PostFilter.Standard,Standard
+PostFilter.Newest,Les plus récents
+PostFilter.Votes,Votes
+PM.NewPrivateMessageSubject,Nouveau message privé
+PM.NewPrivateMessageBody,{0} a vient de vous envoyer un message privé.
+Post.DeleteConfirmation,Êtes-vous sûr de vouloir supprimer ?
+Category.SubCategoriesHeading,Sous-catégories dans
+Category.AllCategories,Toutes les catégories
+Category.MostRecent,Plus récents :
+Members.LogonFacebookButton,Connexion avec Facebook
+Members.LogonGoogleButton,Connexion avec Google
+Twitter.Error.EnabledButNotAddedKeys,Vous avez activé des comptes sociaux mais vous n'avez pas ajouté l'id Twitter et la clé secrète au fichier forum.config
+Google.Error.EnabledButNotAddedKeys,Vous avez activé des comptes sociaux mais vous n'avez pas ajouté l'id Google ni la clé secrète au fichier forum.config
+Error.EmailIsBanned,L’adresse e-mail ou le domaine que vous essayez d’utiliser a été banni
+Post.FilesUploaded,Fichiers envoyés avec succès
+Post.Attach,Joindre
+Post.Upload,Envoyer les fichiers
+Post.UploadBannedFileExtension,Extension de fichier non autorisée
+Post.UploadFileTooBig,Le fichier est trop gros
+File.SuccessfullyDeleted,Fichier supprimé
+Members.MemberEmailAuthorisationNeeded,Nous vous avons envoyé un email de confirmation - s’il vous plaît cliquez sur le lien de confirmation dans votre email d’approuver votre compte.
+Members.MemberEmailAuthorisation.EmailBody,Vous êtes inscrit sur {0} - afin de continuer, vous devez confirmer votre adresse e-mail en cliquant sur le lien ci-dessous. {1}
+Members.MemberEmailAuthorisation.Subject,Email de Confirmation
+Members.NowApproved,Votre compte a été approuvé - Merci
+Members.MemberEmailAuthorisationNeededMessage,Cliquez sur le lien inclus dans l'email de confirmation pour activer votre compte.
+Members.MemberEmailAuthorisationResend,Renvoyer le mail de confirmation
+Members.MessageMe,Contactez moi
+Confirmation.DeleteMembersPosts,Etes-vous sûr ? Ceci supprimera toutes les questions et posts des membres !
+Moderate.AwaitingModeration,Votre post est actuellement en attente de modération. Une fois approuvé, il sera publié sur le site
+Badges.AwardsPoints,Points de récompenses {0}
+Language.Change,Changer la langue
+Post.Quote,Citer
+Members.Label.UploadNewAvatar,Télécharger une nouvelle image de profil
+Member.HasNewPrivateMessages,Vous avez de nouveaux messages privés non lus
+Badge.AuthorMarkAsSolution.Name,Votre question est résolue
+Badge.AuthorMarkAsSolution.Desc,Ce badge est offert à un utilisateur lorsqu’il marque un autre post d’utilisateurs comme la solution à sa question
+Badge.UserVoteUp.Name,Vous avez effectué votre premier vote
+Badge.UserVoteUp.Desc,Ce badge est offert aux utilisateurs après leurs premiers votes
+Badge.PostMentionsUmbraco.Name,Fan d'Umbraco
+Badge.PostMentionsUmbraco.Desc,Ce badge est offert à un utilisateur qui mentionne Umbraco dans son dernier message
+Badge.PosterVoteUp.Name,Premier vote pour reçu
+Badge.PosterVoteUp.Desc,Ce badge est offert aux utilisateurs après qu’ils aient reçu leur premier vote "pour" d’un autre utilisateur
+Badge.PosterMarkAsSolution.Name,Post choisi comme solution
+Badge.PosterMarkAsSolution.Desc,Ce badge est offert à un utilisateur, lorsque son post est marqué comme étant la solution à une question
+Badge.Padawan.Name,Padawan
+Badge.Padawan.Desc,Avoir 10 messages ou plus acceptés comme solution
+Badge.OneThousandPoints.Name,Mille à l'heure
+Badge.OneThousandPoints.Desc,Ce badge est offert aux utilisateurs qui ont reçu 1000 points
+Badge.MemberForAYear.Name,Premier anniversaire
+Badge.MemberForAYear.Desc,Ce badge est attribué à un utilisateur après leur premier anniversaire
+Badge.TheGrouch.Name,Le grincheux
+Badge.TheGrouch.Desc,Ce badge est offert aux utilisateurs qui ont voté contre des posts 10 fois ou plus
+Badge.JediMaster.Name,Maître Jedi
+Badge.JediMaster.Desc,Avoir 50 messages ou plus acceptés comme solution
+Badge.Photogenic.Name,Photogénique
+Badge.Photogenic.Desc,Des petites choses comme mettre une photo de profil rendent cet endroit plus sympa. Merci !
+Badge.FavouriteFirstPost.Name,Premier favori
+Badge.FavouriteFirstPost.Desc,Vous avez mis en favori votre premier post
+Badge.YourPostFavouritedTenTimes.Name,Posts favoris
+Badge.YourPostFavouritedTenTimes.Desc,Un ou plusieurs de vos posts ont été mis en favoris par 10 personnes ou plus
+Badge.YourPostFavourited.Name,Post favori
+Badge.YourPostFavourited.Desc,Vous avez un ou plusieurs posts qui ont été mis en favoris par un autre membre
+Site.MvcForum,MvcForum
+Layout.Nav.Utilities,Utilitaires
+Side.Search.SearchFor,Rechercher au sujet de...
+Side.Search.Go,Aller
+Topic.IsSticky,Sujet persistant
+Topic.IsSolved,Question résolue
+Topic.Category,Catégorie
+Topic.IsPoll,Sondage
+Topic.LastPost,Dernier post
+Topic.HotTopics,Questions les plus discutées
+Notifications.NoActiveMembers,Actuellement personne n'est en ligne
+Post.LikedBy,Aimé par
+Post.Browse,Parcourir...
+Post.AttachedFiles,Fichiers joints
+SubNav.Latest,Les toutes dernières questions
+SubNav.Following,Suivi
+SubNav.PostedIn,Vos posts
+SubNav.Favourites,Mes favoris
+Favourites.PageTitle,Mes favoris
+Favourites.NoMemberFavourites,Vous n'avez mis aucun message en favoris
+Following.PageTitle,Questions & Catégories
+Following.Categories,Catégories que vous suivez
+SubscribedCats.NothingToShow,Vous ne suivez aucune catégorie
+Following.Topics,Questions que vous suivez
+SubscribedTopics.NothingToShow,Vous ne suivez aucune question
+PostedIn.PageTitle,Questions & Posts auxquels vous avez participé
+Topic.Label.Tags,Ajouter une étiquette
+Topic.Label.UploadFiles,Envoyer les fichiers
+Search.Searching,Recherche en cours
+Search.InTopic,Dans les questions
+Members.SrubAndBan,Membre scrub
+Confirmation.SrubAndBan,Êtes-vous sûr de vouloir faire cela ? Ceci supprimera tous leurs posts et les bannira
+Admin,Admin
+Members.SuccessfulSrub,Tout est fait
+Post.Favourite,Favori
+Post.Favourited,En favoris
+Members.NowBanned,Le membre est désormais banni
+Members.NowUnBanned,Le membre n’est maintenant plus banni
+PM.AboutToExceedInboxSizeBody,Vous êtes sur le point de dépasser la capacité maximale de votre boîte de réception des messages privés
+PM.AboutToExceedInboxSizeSubject,Capacité de la boîte de réception des messages privés
+PM.NewPrivateMessage,Nouveau message privé
+PM.LastActivity,Dernière activité
+StopWord.Error,Vous avez essayé d’entrer un mot ou une url qui n’est pas autorisé sur ce site
+Post.Permalink,Lien permanent
+Members.Profile.LastOnline,Dernier connecté
+Members.UnableToGetEmailAddress,Impossible d’accéder à votre adresse e-mail - s’il vous plaît vérifiez vos autorisations
+Members.ResetPassword.Title,Demande de réinitialisation de mot de passe envoyée
+Members.ResetPassword.Text,Un email vous a été envoyé pour réinitialiser votre mot de passe.
+Members.ResetPassword.EmailText,Une demande a été faite pour réinitialiser votre mot de passe sur {0}. Pour réinitialiser votre mot de passe suivez le lien ci-dessous. Si vous n’avez pas fait cette demande, s’il vous plaît ignorez ce message. Aucune action n’est requise et votre mot de passe ne sera pas modifié.
+Members.ResetPassword.SuccessText,Votre mot de passe a été changé.
+Members.ResetPassword.InvalidToken,Cette demande est pas valide ou a expiré. S’il vous plaît refaîtes une demande de réinitialisation de mot de passe.
+Members.ResetPassword.Error,Il y a eu une erreur lors de la réinitialisation de votre mot de passe. S’il vous plaît essayez à nouveau.
+Tasks.MarkAsSolutionReminderJob.EmailBody,Votre question {0} sur {1} a {2} réponse(s) mais n’a toujours pas été marquée comme résolue. Veuillez vérifier de nouveau pour voir s'il n'y a pas une réponse appropriée et la marquer comme étant la solution à votre question.
+Tasks.MarkAsSolutionReminderJob.Subject,Votre post sur {0}
+Post.MemberIsOnline,En ligne
+PM.MemberIsOnline,En ligne
+Topic.Label.PollCloseAfterDays,Fermer le sondage après un nombre spécifié de jours ? Mettre 0 pour ne pas activer la clôture automatique
+Topic.PollClosed,Fermé
+Post.OthersLiked,et {0} autres personnes
+Members.Label.DisableEmailNotifications,Désactiver les notifications par email
+TinyMCE.InsertImage.ButtonTitle,Insérer une image
+TinyMCE.InsertImage.ButtonOk,Ok
+TinyMCE.InsertImage.ButtonClose,Fermer
+TinyMCE.InsertImage.EnterValidUrl,Veuillez entrer une url valide
+TinyMCE.InsertImage.SelectFile,Veuillez sélectionner un fichier
+TinyMCE.InsertImage.MaxFileSize,Taille max. de l'image est de 2 Mo
+TinyMCE.InsertImage.OnlyImages,Seulement le format JPEG
+TinyMCE.InsertImage.LabelUploadImage,Envoyer l'image
+TinyMCE.InsertImage.Browse,Parcourir
+TinyMCE.InsertImage.ExternalImage,Image externe
+TinyMCE.InsertImage.ImageDescription,Description de l’image
+Post.Options,Options
+SlidePanel.CloseConfirmation,Êtes-vous sûr de que vouloir clôturer ?
+PM.Block,Bloquer
+PM.Blocked,Bloqué
+PM.BlockedMessage,Impossible d’envoyer message
+PM.ShowMore,Afficher plus de messages
+PM.ShowMoreLoading,Chargement...
+Members.LogonMicrosoftButton,Connexion avec Microsoft
+Search.Results,Résultats trouvés
+Post.Move.Label.Topic,Question
+Post.Move.Label.NewTopicTitle,Créer une nouvelle question
+Post.Move.Label.ReplyToPosts,Déplacer les réponses ainsi que les citations
+Post.Move.PostTitle,Déplacer le post
+Post.Move.Description,Déplacer le post vers une question déjà posée
+TermsAndConditions.Label.Agree,J’ai lu et j'accepte les mentions légales et Conditions
+TermsAndConditions.PageTitle,Acceptez les conditions générales d'utilisation
+TermsAndConditions.Label.AgreeError,Vous devez accepter les conditions d'utilisation
+PostEdit.Panel.Name,Historique des modifications du post
+PostEdit.None,Ce post n’a pas d'historique de modifications pour le moment
+PostEdit.EditedBy,Modifié par
+PostEdit.OriginalVersion,Original
+PostEdit.EditedVersion,Modifié
+Moderate.Title,Modérer
+Moderate.NothingHere,Rien ici pour le moment
+Moderate.Topics,Questions
+Moderate.Posts,Posts
+Moderate.NavText,Posts/questions en attente
